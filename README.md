@@ -2,11 +2,10 @@ Hello, I'm Oscar
 
 ## :Contacts 📫
 <div> 
-  <a href = "mailto:juniorprogrammer09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brianskidga09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
+  <a href = "mailto:madegwaoscar317@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <hr>
--->                    
+                   
   
 
 ### :fire: Visitor Count :

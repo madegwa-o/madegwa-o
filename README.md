@@ -24,5 +24,5 @@ You can reach me via email at madegwaoscar@gmail.com or connect with me on Linke
 ## Fun Fact
 I'm also a big fan of hiking and outdoor adventures. When I'm not coding, you'll likely find me exploring new trails or enjoying nature's beauty.
 
-
+<img src="https://t.bkit.co/w_6682ceec8116f.gif" />
 

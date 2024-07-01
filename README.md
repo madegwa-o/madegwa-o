@@ -9,7 +9,7 @@ Hello, I'm Oscar
   
 
 ### :fire: Visitor Count :
- <img src="https://profile-counter.glitch.me/la-mello/count.svg" alt="visitor count" />
+ <img src="https://profile-counter.glitch.me/madegwa-o/count.svg" alt="visitor count" />
 
 
 

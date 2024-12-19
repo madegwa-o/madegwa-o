@@ -2,7 +2,7 @@ Hello, I'm Oscar
 
 ## 🚀 Portfolio Projects:
 
-- [![Karu Exchange](https://img.shields.io/badge/Karu_Exchange-%2300C4CC.svg?logo=react&logoColor=white)](https://karu-shop-production.up.railway.app/)
+- [![Karu Exchange](https://img.shields.io/badge/Karu_Exchange-%2300C4CC.svg?logo=react&logoColor=white)](https://karuexchange.shop/)
 - [![My Portfolio](https://img.shields.io/badge/My_Portfolio-%2300C4CC.svg?logo=render&logoColor=white)](https://madegwa-o.onrender.com/)
 
 ### :fire: Visitor Count :

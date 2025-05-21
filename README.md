@@ -1,26 +1,58 @@
-Hello, I'm Oscar
+# Hello, I'm Oscar 👋
 
-## 🚀 Portfolio Projects:
+## 🚀 **Portfolio Projects**
 
-- [![Karu Exchange](https://img.shields.io/badge/Karu_Exchange-%2300C4CC.svg?logo=react&logoColor=white)](https://karuexchange.shop/)
-- [![My Portfolio](https://img.shields.io/badge/My_Portfolio-%2300C4CC.svg?logo=render&logoColor=white)](https://madegwa-o.onrender.com/)
+### **Frontends**  
+- [![Angular Project](https://img.shields.io/badge/Angular_Project-%23DD0031.svg?logo=angular&logoColor=white)](https://angular-madegwa.netlify.app/)  
+- [![Trackora AI](https://img.shields.io/badge/Trackora_AI-%2300C4CC.svg?logo=react&logoColor=white)](https://trachora.netlify.app/)  
 
-### :fire: Visitor Count :
- <img src="https://profile-counter.glitch.me/madegwa-o/count.svg" alt="visitor count" />
+### **Backends**  
+- [![Spring Boot API](https://img.shields.io/badge/Spring_Boot_API-%236DB33F.svg?logo=spring&logoColor=white)](https://render-spring-backend.onrender.com/)  
+- [![FastAPI Server](https://img.shields.io/badge/FastAPI_Server-%2300A98F.svg?logo=fastapi&logoColor=white)](https://fast-api-server-hf5r.onrender.com/)  
+- [![ExpressJS Backend](https://img.shields.io/badge/ExpressJS_Backend-%23333333.svg?logo=express&logoColor=white)](https://node-backend-k4or.onrender.com/)  
 
+### **Main Website**  
+- [![My Portfolio](https://img.shields.io/badge/My_Website-%2300C4CC.svg?logo=render&logoColor=white)](https://madegwa.netlify.app/)
 
+---
 
+### 🔥 **Visitor Count**  
+<img src="https://profile-counter.glitch.me/madegwa-o/count.svg" alt="visitor count" />
+
+---
+
+### 🌟 **Skills & Tools**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-%2300A98F.svg?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NodeJS-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+### 🌐 **Socials**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-madegwa-528986289) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23226869/madegwa-o) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/oscar_made29969)  
+<a href="mailto:madegwaoscar317@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+---
+
+### 📈 **GitHub Stats**  
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madegwa-o&show_icons=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madegwa-o&layout=compact&hide_border=true&theme=radical" />
+</div>
+
+---
+
+### 🚀 **Fun GIF**  
 <img src="https://t.bkit.co/w_6682ceec8116f.gif" />
 
-            
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-madegwa-528986289) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23226869/madegwa-o) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/oscar_made29969) 
-
-<div> 
-  <a href = "mailto:madegwaoscar317@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
 
 # 💻 Tech Stack:

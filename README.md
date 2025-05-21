@@ -3,8 +3,9 @@
 ## 🚀 **Portfolio Projects**
 
 ### **Frontends**  
-- [![Angular Project](https://img.shields.io/badge/Angular_Project-%23DD0031.svg?logo=angular&logoColor=white)](https://angular-madegwa.netlify.app/)  
 - [![Trackora AI](https://img.shields.io/badge/Trackora_AI-%2300C4CC.svg?logo=react&logoColor=white)](https://trachora.netlify.app/)  
+- [![Angular Project](https://img.shields.io/badge/Angular_Project-%23DD0031.svg?logo=angular&logoColor=white)](https://angular-madegwa.netlify.app/)  
+
 
 ### **Backends**  
 - [![Spring Boot API](https://img.shields.io/badge/Spring_Boot_API-%236DB33F.svg?logo=spring&logoColor=white)](https://render-spring-backend.onrender.com/)  
